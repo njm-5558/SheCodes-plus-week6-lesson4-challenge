@@ -1,0 +1,36 @@
+
+.card{ 
+    max-width: 60%;
+  display: block;
+  margin: 0 auto;
+   position: relative; 
+top:100px;
+color: rgb(61, 29, 245);}
+
+    h1, h2, h4,h3, h5 {font-family: 'Corinthia', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Meow Script', cursive;
+font-family: 'Noto Serif', serif; 
+position: relative;
+top: 20px;
+left:20px;
+}
+
+     p{position: relative;
+        top: 10px;
+          font-size: 50px;
+       }
+        .col-3{ padding: 50px 80px 200px 20px;
+        
+          font-size:38px ;
+        }
+               
+        .col-2{ position: relative;
+        left: 50px;
+    font-size: 23px;}
+.city{padding: 10px 70px;
+margin: 40px;}
+.btn-primary{position: relative;
+left: -20px;
+}
+.units{font-size: 25px;}
