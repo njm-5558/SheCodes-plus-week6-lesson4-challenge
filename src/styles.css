@@ -1,4 +1,12 @@
-
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f8f9fa;
+  background-image: url(file:///C:/Users/Fubo/Desktop/Html/SheCodes-plus-week6-lesson4-challenge/media/our_neighborhood.svg);
+  background-repeat: no-repeat;
+  background-position: 0% 127%;
+  background-attachment: fixed;
+  background-size: 32vw 60vh;
+}
 .card{ 
     max-width: 60%;
   display: block;
